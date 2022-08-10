@@ -1,4 +1,4 @@
-# rsvpapp
+# rsvpap
 RSVP app by CloudYuga
 
 ## Credits
